@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
-- Live Site URL: [Live site URL](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/responsive-stats-card-using-css-flexbox-n9vt3mtRw)
+- Live Site URL: [Live site URL](https://fmc-stats-card.vercel.app/)
 
 ## My process
 
